@@ -1,0 +1,43 @@
+@options
+@packages
+-classpath
+'C:/Users/huchi/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE170/AbsoluteLayout-RELEASE170.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/huchi/OneDrive/Documentos/NetBeansProjects/ProyectoFinal/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/huchi/OneDrive/Documentos/NetBeansProjects/ProyectoFinal/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoFinal 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/huchi/OneDrive/Documentos/NetBeansProjects/ProyectoFinal/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ProyectoFinal 1.0-SNAPSHOT API'
+com.samantha.proyectofinal
+C:\Users\huchi\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE170\AbsoluteLayout-RELEASE170.jar = 1683522195460
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\src\main\java = 1683520602443
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\allclasses-frame.html = 1683525864144
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\allclasses-noframe.html = 1683525864146
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\constant-values.html = 1683525864086
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\deprecated-list.html = 1683525864141
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\help-doc.html = 1683525864152
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\index-all.html = 1683525864136
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\index.html = 1683525864148
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\overview-tree.html = 1683525864126
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\package-list = 1683525864066
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\script.js = 1683525864158
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\serialized-form.html = 1683525864104
+C:\Users\huchi\OneDrive\Documentos\NetBeansProjects\ProyectoFinal\target\apidocs\stylesheet.css = 1683525864156
